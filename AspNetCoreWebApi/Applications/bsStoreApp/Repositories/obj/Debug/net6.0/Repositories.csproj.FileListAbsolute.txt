@@ -1,0 +1,15 @@
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.dll
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.pdb
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll

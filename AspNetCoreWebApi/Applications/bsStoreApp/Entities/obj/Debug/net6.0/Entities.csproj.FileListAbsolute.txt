@@ -1,0 +1,12 @@
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\bin\Debug\net6.0\Entities.dll
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\bin\Debug\net6.0\Entities.pdb
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\obj\Debug\net6.0\Entities.dll
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\obj\Debug\net6.0\Entities.pdb
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\Entities\obj\Debug\net6.0\ref\Entities.dll
