@@ -80,3 +80,6 @@ D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Micr
 D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Presentation.dll
 D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Presentation.pdb
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\nlog.config
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\NLog.dll
+D:\Courses\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
