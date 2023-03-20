@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Entities.Exceptions;
 using Entities.Models;
 using Repositories.Contracts;
 using Services.Conracts;
@@ -27,7 +28,12 @@ namespace Services
 
         public Book GetOneBookById(int id, bool trackChanges)
         {
-            return _repositoryManager.Book.GetOneBookById(id, trackChanges);
+            var book =  _repositoryManager.Book.GetOneBookById(id, trackChanges);
+            if (book is null)
+            {
+                throw new BookNotFoundException(id);
+            }
+            return book;
         }
 
         public Book CreateOneBook(Book book)
@@ -43,9 +49,7 @@ namespace Services
             var entity = _repositoryManager.Book.GetOneBookById(id, trackChanges);
             if (entity is null)
             {
-                string message = $"Book with id:{id} could not found";
-                _loggerService.LogInfo(message);
-                throw new Exception(message);
+                throw new BookNotFoundException(id);
             }
                
 
@@ -66,9 +70,7 @@ namespace Services
             var entity = _repositoryManager.Book.GetOneBookById(id, trackChanges);
             if (entity is null)
             {
-                string message = $"The book with id:{id} could not found";
-                _loggerService.LogInfo(message);
-                throw new Exception(message);
+                throw new BookNotFoundException(id);
             }
 
             _repositoryManager.Book.DeleteOneBook(entity);
