@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "aOP8Qm/3gXMUgLimyjCSpTEJRLkm2Iuy9vDTr+CujWQtpRYGgMBZN3pszvE1mH32fEz1r0wYgUMSbvYyvp1Q1g==",
+  "dgSpecHash": "YDBxFTqyCv8vByxFGdoAv72wUQCBdjthUouCvlVNZqNTj2waQ9T+RTcpL6IL02Z5qN58W0SGrjmVkH/DI30LeA==",
   "success": true,
   "projectFilePath": "D:\\Courses\\AspNetCoreWebApi\\Applications\\basics\\HelloWebApi\\HelloWebApi.csproj",
   "expectedPackageFiles": [

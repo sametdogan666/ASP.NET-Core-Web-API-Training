@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Applications",
-    "\\Applications\\basics"
+    "\\Applications\\basics",
+    "\\Applications\\basics\\ProductApp"
   ],
-  "SelectedNode": "\\Applications\\basics\\basics.sln",
+  "SelectedNode": "\\Applications\\basics\\ProductApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

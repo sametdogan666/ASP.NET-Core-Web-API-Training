@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pHjd20HjZMB5kbuszh2KqSROd36JsjM/QqsyqzBPm8Beuv/t3uRV6bcnxsUF8at4ePLhnRKuKgez8WqVeWnkVQ==",
+  "dgSpecHash": "TEFBjW142eDvnGhT5hp5vqPbBz20d550xNV1sazYMZh+q0fRply822OwFrLt7tiWjzClt4U+jvGEI7ku9p30gQ==",
   "success": true,
   "projectFilePath": "D:\\Courses\\AspNetCoreWebApi\\Applications\\basics\\hello_world_api_ui\\hello_world_api_ui.csproj",
   "expectedPackageFiles": [
