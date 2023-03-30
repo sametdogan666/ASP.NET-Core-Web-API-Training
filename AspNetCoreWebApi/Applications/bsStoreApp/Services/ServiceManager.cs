@@ -1,23 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using AutoMapper;
+﻿using AutoMapper;
 using Repositories.Contracts;
 using Services.Conracts;
 
-namespace Services
+namespace Services;
+
+public class ServiceManager : IServiceManager
 {
-    public class ServiceManager : IServiceManager
+    private readonly Lazy<IBookService> _bookService;
+
+    public ServiceManager(IRepositoryManager repositoryManager, ILoggerService loggerService, IMapper mapper)
     {
-        private readonly Lazy<IBookService> _bookService;
-
-        public ServiceManager(IRepositoryManager repositoryManager, ILoggerService loggerService, IMapper mapper)
-        {
-            _bookService = new Lazy<IBookService>(() => new BookManager(repositoryManager, loggerService, mapper));
-        }
-
-        public IBookService BookService => _bookService.Value;
+        _bookService = new Lazy<IBookService>(() => new BookManager(repositoryManager, loggerService, mapper));
     }
+
+    public IBookService BookService => _bookService.Value;
 }
+

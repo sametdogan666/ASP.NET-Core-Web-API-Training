@@ -1,5 +1,4 @@
 ﻿using Entities.LogModel;
-using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Services.Conracts;
 using RouteData = Microsoft.AspNetCore.Routing.RouteData;

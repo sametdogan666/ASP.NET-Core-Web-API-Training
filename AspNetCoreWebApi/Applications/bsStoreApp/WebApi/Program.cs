@@ -1,9 +1,5 @@
-using Microsoft.AspNetCore.Hosting.Builder;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using NLog;
-using Presentation.ActionFilters;
-using Repositories.EFCore;
 using Services.Conracts;
 using WebApi.Extensions;
 

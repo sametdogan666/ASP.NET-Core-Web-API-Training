@@ -2,15 +2,15 @@
 using Entities.DataTransferObjects;
 using Entities.Models;
 
-namespace WebApi.Utilities.AutoMapper
+namespace WebApi.Utilities.AutoMapper;
+
+public class MappingProfile : Profile
 {
-    public class MappingProfile : Profile
+    public MappingProfile()
     {
-        public MappingProfile()
-        {
-            CreateMap<BookDtoForUpdate, Book>().ReverseMap();
-            CreateMap<Book, BookDto>();
-            CreateMap<BookDtoForInsertion, Book>();
-        }
+        CreateMap<BookDtoForUpdate, Book>().ReverseMap();
+        CreateMap<Book, BookDto>();
+        CreateMap<BookDtoForInsertion, Book>();
     }
 }
+

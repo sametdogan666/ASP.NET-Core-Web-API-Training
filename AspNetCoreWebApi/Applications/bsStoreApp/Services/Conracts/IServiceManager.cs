@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace Services.Conracts;
 
-namespace Services.Conracts
+public interface IServiceManager
 {
-    public interface IServiceManager
-    {
-        IBookService BookService { get; }
-    }
+    IBookService BookService { get; }
 }
+

@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace Entities.DataTransferObjects
+namespace Entities.DataTransferObjects;
+
+public record BookDtoForUpdate : BookDtoForManipulation
 {
-    public record BookDtoForUpdate:BookDtoForManipulation
-    {
-        [Required]
-        public int Id { get; init; }
-       
-    }
+    [Required]
+    public int Id { get; init; }
+
 }
+
