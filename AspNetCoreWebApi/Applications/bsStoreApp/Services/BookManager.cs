@@ -52,11 +52,7 @@ namespace Services
         public async Task UpdateOneBookAsync(int id, BookDtoForUpdate bookDtoForUpdate, bool trackChanges)
         {
             //check entity
-            var entity = await _repositoryManager.Book.GetOneBookByIdAsync(id, trackChanges);
-            if (entity is null)
-            {
-                throw new BookNotFoundException(id);
-            }
+            var entity = await GetOneBookByIdAndCheckExists(id, trackChanges);
 
             entity = _mapper.Map<Book>(bookDtoForUpdate);
 
@@ -66,12 +62,7 @@ namespace Services
 
         public async Task DeleteOneBookAsync(int id, bool trackChanges)
         {
-            //check entity
-            var entity = await _repositoryManager.Book.GetOneBookByIdAsync(id, trackChanges);
-            if (entity is null)
-            {
-                throw new BookNotFoundException(id);
-            }
+            var entity = await GetOneBookByIdAndCheckExists(id, trackChanges);
 
             _repositoryManager.Book.DeleteOneBook(entity);
             await _repositoryManager.SaveAsync();
@@ -79,10 +70,7 @@ namespace Services
 
         public async Task<(BookDtoForUpdate bookDtoForUpdate, Book book)> GetOneBookForPatchAsync(int id, bool trackChanges)
         {
-            var book = await _repositoryManager.Book.GetOneBookByIdAsync(id, trackChanges);
-
-            if (book is null)
-                throw new BookNotFoundException(id);
+            var book = await GetOneBookByIdAndCheckExists(id, trackChanges);
 
             var bookDtoForUpdate = _mapper.Map<BookDtoForUpdate>(book);
 
@@ -94,6 +82,18 @@ namespace Services
         {
             _mapper.Map(bookDtoForUpdate, book);
             await _repositoryManager.SaveAsync();
+        }
+
+        private async Task<Book> GetOneBookByIdAndCheckExists(int id, bool trackChanges)
+        {
+            //check entity
+            var entity = await _repositoryManager.Book.GetOneBookByIdAsync(id, trackChanges);
+            if (entity is null)
+            {
+                throw new BookNotFoundException(id);
+            }
+
+            return entity;
         }
     }
 }
