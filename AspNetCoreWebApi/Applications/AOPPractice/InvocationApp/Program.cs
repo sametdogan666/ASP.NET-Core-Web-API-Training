@@ -22,8 +22,6 @@ public class Program
         var willBeIntercepted = container.Resolve<IEmployee>();
         willBeIntercepted.Add(emp1.Id, emp1.FirstName, emp1.LastName);
 
-
-
         Console.ReadKey();
     }
 }
