@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "T16PxaZ6VgUG2XOgoxFcWjNJRRHbdPH1yW9SFkTADYnYKVQ6n1MP15fUNp6NSYeFMvbAdBYxn+dbf4e/PyPcBg==",
+  "success": true,
+  "projectFilePath": "D:\\Courses\\AspNetCoreWebApi\\Applications\\AOPPractice\\InvocationApp\\InvocationApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sdoqa\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
+    "C:\\Users\\sdoqa\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.1\\autofac.extras.dynamicproxy.6.0.1.nupkg.sha512",
+    "C:\\Users\\sdoqa\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\sdoqa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\sdoqa\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

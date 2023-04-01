@@ -1,0 +1,15 @@
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\bin\Debug\net7.0\ProxyApp.exe
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\bin\Debug\net7.0\ProxyApp.deps.json
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\bin\Debug\net7.0\ProxyApp.runtimeconfig.json
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\bin\Debug\net7.0\ProxyApp.dll
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\bin\Debug\net7.0\ProxyApp.pdb
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\ProxyApp.csproj.AssemblyReference.cache
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\ProxyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\ProxyApp.AssemblyInfoInputs.cache
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\ProxyApp.AssemblyInfo.cs
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\ProxyApp.csproj.CoreCompileInputs.cache
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\ProxyApp.dll
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\refint\ProxyApp.dll
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\ProxyApp.pdb
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\ProxyApp.genruntimeconfig.cache
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\ProxyApp\obj\Debug\net7.0\ref\ProxyApp.dll

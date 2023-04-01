@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nly3gcI8vWPnc9SYaxVUsEPx0rIWndonDXILL8j6cn7suq9/xSeGy8YIR+NI/zAOe92Wxv/ihCUVD1XYDZ9BsA==",
+  "success": true,
+  "projectFilePath": "D:\\Courses\\AspNetCoreWebApi\\Applications\\AOPPractice\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sdoqa\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\sdoqa\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

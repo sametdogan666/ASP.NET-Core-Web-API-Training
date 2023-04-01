@@ -1,0 +1,12 @@
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\bin\Debug\net7.0\Core.deps.json
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\bin\Debug\net7.0\Core.dll
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\bin\Debug\net7.0\Core.pdb
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\obj\Debug\net7.0\Core.dll
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\obj\Debug\net7.0\refint\Core.dll
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\obj\Debug\net7.0\Core.pdb
+D:\Courses\AspNetCoreWebApi\Applications\AOPPractice\Core\obj\Debug\net7.0\ref\Core.dll

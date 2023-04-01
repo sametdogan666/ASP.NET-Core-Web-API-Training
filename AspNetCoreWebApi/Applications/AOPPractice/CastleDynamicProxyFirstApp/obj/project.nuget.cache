@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TfziJsET7eNWPF+rQLmEnahUjhp5/7+F1jaCGrmeAYRh3wJVuqTg8bs8TvMbipdo3S6sL50Q1scjPxBIP1H9PQ==",
+  "success": true,
+  "projectFilePath": "D:\\Courses\\AspNetCoreWebApi\\Applications\\AOPPractice\\CastleDynamicProxyFirstApp\\CastleDynamicProxyFirstApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sdoqa\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
+    "C:\\Users\\sdoqa\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.1\\autofac.extras.dynamicproxy.6.0.1.nupkg.sha512",
+    "C:\\Users\\sdoqa\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\sdoqa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\sdoqa\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
